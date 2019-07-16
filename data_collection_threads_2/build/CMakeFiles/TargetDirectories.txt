@@ -1,0 +1,3 @@
+/home/seif/ssd_workspace/data_collection_threads_2/build/CMakeFiles/rebuild_cache.dir
+/home/seif/ssd_workspace/data_collection_threads_2/build/CMakeFiles/ZED_SVO_Recording.dir
+/home/seif/ssd_workspace/data_collection_threads_2/build/CMakeFiles/edit_cache.dir

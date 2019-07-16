@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seif/ssd_workspace/data_collection_threads_2/serial/serial.cpp
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+termios.h
+-
+iostream
+-
+chrono
+-
+ctime
+-
+time.h
+-
+

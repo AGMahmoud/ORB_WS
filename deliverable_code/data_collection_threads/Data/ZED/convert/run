@@ -1,0 +1,2 @@
+mkdir ../sequence/
+sudo ./ZED_SVO_Export ../record.svo ../sequence/ 2
